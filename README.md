@@ -2,21 +2,20 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
-    <h1 align="center">Yii 2 Advanced Project Template</h1>
+    <h1 align="center">Yii 2 Advanced fraymorkda yaratilgan OrgRating tizimi</h1>
     <br>
 </p>
 
-Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-developing complex Web applications with multiple tiers.
+O'zbeksiton Respublikasidagi mavjud tadbirkorlik subyektlar to'g'risidagi ochiq malumotlar sinfiga kiriuvchi malumotlarni umumlashtirgan tizimi
 
-The template includes three tiers: front end, back end, and console, each of which
-is a separate Yii application.
+Tizimni yana bir muhim ahamiyati mavjud ochiqa malumotlardan foydalangan 
+holda iqtsodiy mezon qoidalarini qo'llab harbir korxona tashkiotga qiyosiy ball berish xususiyati mavjud
 
-The template is designed to work in a team development environment. It supports
-deploying the application in different environments.
 
-Documentation is at [docs/guide/README.md](docs/guide/README.md).
-
+Batafsizl tanishish uchun  https://docs.google.com/presentation/d/17SYmKKkx2Rs74T7XgURVwhJCLEqKCdHQ0ouR4XZgLd4/edit#slide=id.g1062c8b9129_2_55.
+<a href="http://1ms.uz" target="_blank">
+        Tizimga o'tish
+    </a>
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-advanced.svg)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-advanced.svg)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![build](https://github.com/yiisoft/yii2-app-advanced/workflows/build/badge.svg)](https://github.com/yiisoft/yii2-app-advanced/actions?query=workflow%3Abuild)
